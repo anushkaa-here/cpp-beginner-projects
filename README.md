@@ -14,6 +14,9 @@ A simple console calculator that performs:
 2. Number Guessing Game
 A game where the computer generates a random number between 1 and 100 and the user tries to guess it with hints.
 
+3. Prime Checker
+A program to check whether a given number is prime or not.
+
 ## Language Used
 C++
 
