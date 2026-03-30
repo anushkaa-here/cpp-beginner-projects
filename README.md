@@ -20,6 +20,9 @@ A program to check whether a given number is prime or not.
 4. Palindrome Checker
 A program to check wheter the input string is a palindrome.
 
+6. Grade Checker
+A simple program to check grades.
+
 ## Language Used
 C++
 
